@@ -15,7 +15,7 @@ This project is part of the **Introduction to Big Data Analytics** coursework. I
 
 ## ❓ Problem Statement
 
-Real estate pricing is influenced by various factors—location, age, proximity to services, and more. However, understanding which features contribute most to property value can be challenging.
+Can we predict real estate property values based on location factors, accessibility to public transportation, and neighborhood amenities to help investors and buyers make informed decisions?
 
 **Key Questions:**
 - What factors most strongly influence property prices?
