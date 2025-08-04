@@ -85,6 +85,7 @@ Insights from Python analysis:
 - Price Category
 - Age & Store Categories
 - Location Cluster
+![Uploading image.png…]()
 
 ✅ **Visuals**:
 - Line charts for price trends
