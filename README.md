@@ -104,7 +104,7 @@ Insights from Python analysis:
 
 ## 📎 Screenshots
 
-> _Replace the image URLs with your actual GitHub image links or embed Power BI report thumbnails._
+<img width="1803" height="1190" alt="output2" src="https://github.com/user-attachments/assets/581031e1-0544-4a30-ba6c-fc4baeb826e6" />
 
 <br> **🔍 Data Exploration**
 <img width="1789" height="1190" alt="output" src="https://github.com/user-attachments/assets/b7b9383b-0779-474c-afbb-894ee7a56882" />
@@ -135,3 +135,20 @@ Insights from Python analysis:
 
 ## 📁 Project Structure
 
+---
+
+## 👩‍💻 Author
+
+**Iteka Laure Gabriella**  
+📫 [ITEKA Laure Gabriella] [ID:22718] {• 🌐 [LinkedIn or GitHub Profile]  
+🎓 Student, Introduction to Big Data Analytics
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+> “Turning raw housing data into actionable insights through modern analytics.”
