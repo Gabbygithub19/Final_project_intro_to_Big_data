@@ -1,4 +1,4 @@
-# 🏡 Real Estate Valuation Analysis
+# 🏡 Real Estate Valuation Project
 
 [![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
