@@ -85,7 +85,6 @@ Insights from Python analysis:
 - Price Category
 - Age & Store Categories
 - Location Cluster
-![Uploading image.png…]()
 
 ✅ **Visuals**:
 - Line charts for price trends
@@ -108,10 +107,11 @@ Insights from Python analysis:
 > _Replace the image URLs with your actual GitHub image links or embed Power BI report thumbnails._
 
 <br> **🔍 Data Exploration**
-<img src="https://github.com/user/repo/assets/data_exploration.png" width="700"/>
+<img width="1789" height="1190" alt="output" src="https://github.com/user-attachments/assets/b7b9383b-0779-474c-afbb-894ee7a56882" />
 
 <br> **📊 Power BI Dashboard**
-<img src="https://github.com/user/repo/assets/powerbi_dashboard.png" width="700"/>
+![Capture](https://github.com/user-attachments/assets/a6f28051-6d05-4c57-b0f8-c824a43c218a)
+
 
 ---
 
