@@ -133,9 +133,7 @@ Insights from Python analysis:
 
 ---
 
-## 📁 Project Structure
 
----
 
 ## 👩‍💻 Author
 
